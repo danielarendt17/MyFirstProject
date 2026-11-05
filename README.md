@@ -1,5 +1,8 @@
 AJ WUZ HERE
 
+## Collaboration Acknowledgment
+This project was reviewed and edited by AJ on GitHub.
+
 # MyFirstProject
 Grade Reader
 
