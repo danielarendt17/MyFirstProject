@@ -8,7 +8,7 @@ Grade Reader
 4. Add **grades.txt** file with included student names and grades
 
 ## Purpose of Program
-This program is make to read out a list of students names and their grades from a text file.
+This program was made to read out a list of students names and their grades from a text file.
 
 ## Example of grades.txt Format
 ```text
